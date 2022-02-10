@@ -32,4 +32,4 @@ VALUES
 (1, 5, 4, 2, 4, 'messages'),
 (2, 6, 2, 4, 5, 'messages'),
 (3, 8, 3, 3, 2, 'messages'),
-(4, 6, 2, 4, 4, 'MESSAGES')
+(4, 6, 2, 4, 4, 'MESSAGES');
